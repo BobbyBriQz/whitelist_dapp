@@ -235,7 +235,7 @@ useEffect(() => {
       </Head>
       <div className={styles.main}>
         <div>
-          <h1 className={styles.title}>Welcome to Bobby's Whitelist!</h1>
+          <h1 className={styles.title}>Welcome to Bobby&apos;s Whitelist!</h1>
           <div className={styles.description}>
             Its an NFT collection for Cadena developers in Crypto.
           </div>
